@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:111827,100:0f172a&text=Greeshma%20Gopal&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Senior%20Product%20Manager%20%7C%20AI%20Product%20Management&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:111827,100:0f172a&text=Greeshma%20Gopal&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Senior%20Product%20Manager%20%7C%20SaaS%20%7C%20HCM%20%7C%20AI&descAlignY=62&descSize=18" width="100%"/>
 
 <br>
 
-<a href="#about">About</a>  •  <a href="#what-i-do">What I Do</a>  •  <a href="#ai-product-management">AI Product</a>  •  <a href="#experience">Experience</a>  •  <a href="#toolkit">Toolkit</a>  •  <a href="#currently-exploring">Currently Exploring</a>
+<a href="#about">About</a>  •  <a href="#what-i-do">What I Do</a>  •  <a href="#ai-product-management">AI Product</a>  •  <a href="#experience">Experience</a>  •  <a href="#product-data">Product & Data</a>  •  <a href="#toolkit">Toolkit</a>  •  <a href="#currently-exploring">Currently Exploring</a>
 
 <br><br>
 
@@ -26,15 +26,15 @@
 
 ## 👋 About Me
 
-I'm a **Senior Product Manager with 10+ years of experience** across product management, software development, business analysis, and analytics.
+I'm a Senior Product Manager with 10+ years of experience across product management, software development, business analysis, and analytics.
 
-I currently work on **SaaS products in the HCM and employee benefits space**, partnering closely with engineering, design, data, and business teams to take products from idea through delivery and measure their impact.
+I currently work on SaaS products in the HCM and employee benefits space, partnering closely with engineering, design, data, and business teams to take products from idea through delivery and measure their impact.
 
-My background sits at the intersection of **product, technology, data, and user experience**. I enjoy taking complex problems, understanding what users actually need, and turning them into simple and useful product experiences.
+My background sits at the intersection of product, technology, data, and user experience. I enjoy taking complex problems, understanding what users actually need, and turning them into simple and useful product experiences.
 
-More recently, I've been focusing on **AI Product Management** and exploring how LLMs, AI assistants, and AI agents can solve real product problems.
+More recently, I've been focusing on AI Product Management and exploring how LLMs, AI assistants, and AI agents can solve real product problems.
 
-I'm particularly interested in the product side of AI — figuring out **where AI actually adds value, how the experience should work, how to evaluate the output, and how to build products that are useful, responsible, and measurable.**
+I'm particularly interested in the product side of AI — figuring out where AI actually adds value, how the experience should work, how to evaluate the output, and how to build products that are useful, responsible, and measurable.
 
 <br>
 
@@ -44,54 +44,38 @@ I'm particularly interested in the product side of AI — figuring out **where A
 
 ## 🚀 What I Do
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
 ### Product
 
-* Product strategy
-* Product discovery
-* Roadmaps
-* PRDs & specifications
-* User research
-* UX & accessibility
-* Experimentation
-* Product analytics
-
-</td>
-
-<td width="33%" valign="top">
+* Product strategy and roadmap planning
+* Product discovery and problem definition
+* PRDs, specifications, user stories, and acceptance criteria
+* User research and journey mapping
+* UX and accessibility
+* Product experimentation
+* Product analytics and data-driven decisions
+* Cross-functional product leadership
 
 ### Technology
 
 * SaaS platforms
-* Web & mobile
-* APIs & integrations
-* Technical requirements
-* System workflows
-* Data & analytics
-* Agile delivery
+* Web and mobile products
+* APIs and system integrations
+* Technical product requirements
+* Data and system workflows
+* Agile product delivery
 * Engineering collaboration
-
-</td>
-
-<td width="33%" valign="top">
+* Understanding existing systems and technical constraints
 
 ### AI
 
-* Generative AI
-* LLM applications
-* AI assistants
-* AI agents
-* RAG
-* AI evaluation
-* Responsible AI
-* AI product metrics
-
-</td>
-</tr>
-</table>
+* Generative AI and LLM-powered products
+* AI assistants and conversational experiences
+* AI agents and agentic workflows
+* RAG and knowledge-grounded experiences
+* AI evaluation and quality
+* Responsible AI and privacy
+* Human-in-the-loop experiences
+* AI product metrics and experimentation
 
 <br>
 
@@ -103,9 +87,7 @@ I'm particularly interested in the product side of AI — figuring out **where A
 
 I'm interested in building AI products that go beyond simply generating an answer.
 
-For me, good AI product development starts with the **problem**, not the model.
-
-<br>
+For me, good AI product development starts with the problem, not the model.
 
 <div align="center">
 
@@ -136,16 +118,16 @@ For me, good AI product development starts with the **problem**, not the model.
 
 Areas I'm particularly interested in:
 
-* **Generative AI & LLM-powered products**
-* **AI assistants and conversational experiences**
-* **AI agents and agentic workflows**
-* **RAG and knowledge-grounded experiences**
-* **AI evaluation and quality**
-* **Responsible AI and privacy**
-* **Human-in-the-loop experiences**
-* **AI product metrics and experimentation**
-* **Specification-driven development**
-* **AI-assisted software development**
+* Generative AI and LLM-powered products
+* AI assistants and conversational experiences
+* AI agents and agentic workflows
+* RAG and knowledge-grounded experiences
+* AI evaluation and quality
+* Responsible AI and privacy
+* Human-in-the-loop experiences
+* AI product metrics and experimentation
+* Specification-driven development
+* AI-assisted software development
 
 <br>
 
@@ -153,39 +135,16 @@ Areas I'm particularly interested in:
 
 ## 💡 How I Think About AI Products
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### The Product Question
-
-Before building an AI feature, I want to understand:
-
-* What problem are we solving?
-* Who has the problem?
-* Does AI actually make the experience better?
-* What does success look like?
-* What should the AI be allowed to do?
-* Where should humans stay in the loop?
-
-</td>
-
-<td width="50%" valign="top">
-
-### The AI Question
-
-Once there's a strong product case:
-
-* What data and context does it need?
-* Which AI approach fits the problem?
-* How do we ground the experience?
-* How do we handle uncertainty?
-* How do we evaluate quality?
-* How do we monitor it after launch?
-
-</td>
-</tr>
-</table>
+* Start with the customer problem, not the AI capability.
+* Understand whether AI actually makes the experience better.
+* Define what success looks like before deciding on the solution.
+* Be clear about what the AI should and should not be allowed to do.
+* Think about the data and context the AI needs to provide a useful response.
+* Design for uncertainty and decide when the AI should ask for clarification or involve a human.
+* Evaluate AI output for accuracy, relevance, grounding, and safety.
+* Consider privacy, security, and responsible use of data from the beginning.
+* Measure AI features based on user and business outcomes, not just usage.
+* Continuously learn from real-world usage and improve the product.
 
 <br>
 
@@ -197,7 +156,7 @@ Once there's a strong product case:
 
 ### Senior Product Manager
 
-**HCM • Employee Benefits • SaaS**
+HCM • Employee Benefits • SaaS
 
 I lead product strategy and delivery for benefits experiences across web and mobile, working across product, engineering, design, data, and business teams.
 
@@ -213,57 +172,26 @@ Some areas I've worked across:
 * User research and accessibility
 * Platform and identity initiatives
 
-<br>
-
 ### Earlier Experience
 
-**Software Development → Business Analysis → Product Management**
+Software Development → Business Analysis → Product Management
 
-My experience across these disciplines gives me a strong understanding of how products move from **customer problem → requirements → design → engineering → launch → measurement**.
+My experience across these disciplines gives me a strong understanding of how products move from customer problem → requirements → design → engineering → launch → measurement.
 
 <br>
 
 ---
 
+<a name="product-data"></a>
+
 ## 📊 Product + Data
 
 I use data to help answer product questions, not just report numbers.
 
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🔎 Discover
-
-Understand user behavior and identify opportunities
-
-</td>
-
-<td align="center" width="25%">
-
-### 📈 Measure
-
-Define meaningful product and business metrics
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧪 Experiment
-
-Test assumptions and product changes
-
-</td>
-
-<td align="center" width="25%">
-
-### 🎯 Decide
-
-Use evidence to prioritize what comes next
-
-</td>
-</tr>
-</table>
+* Discover — understand user behavior and identify opportunities
+* Measure — define meaningful product and business metrics
+* Experiment — test assumptions and product changes
+* Decide — use evidence to prioritize what comes next
 
 <br>
 
@@ -317,24 +245,14 @@ Use evidence to prioritize what comes next
 
 ## 🌱 Currently Exploring
 
-<table>
-<tr>
-<td>🤖 AI Product Management</td>
-<td>🔗 AI Agents & Agentic Workflows</td>
-</tr>
-<tr>
-<td>🧠 LLM Applications</td>
-<td>📊 AI Evaluation & Metrics</td>
-</tr>
-<tr>
-<td>🛡️ Responsible AI</td>
-<td>📝 Specification-Driven Development</td>
-</tr>
-<tr>
-<td>⚙️ AI-Assisted Development</td>
-<td>📈 AI Product Experimentation</td>
-</tr>
-</table>
+* AI Product Management
+* AI agents and agentic workflows
+* LLM applications
+* AI evaluation and product metrics
+* Responsible AI
+* Specification-driven development
+* AI-assisted software development
+* AI product experimentation
 
 <br>
 
@@ -342,11 +260,9 @@ Use evidence to prioritize what comes next
 
 ## 🎯 Where I'm Headed
 
-I'm interested in opportunities where I can bring together my experience in **product management, technology, data, and AI** to build products that solve real problems and create measurable value.
+I'm interested in opportunities where I can bring together my experience in product management, technology, data, and AI to build products that solve real problems and create measurable value.
 
-I'm particularly interested in:
-
-**AI Product Management · GenAI · AI Agents · AI-powered SaaS · Technical Product Management**
+AI Product Management · GenAI · AI Agents · AI-powered SaaS · Technical Product Management
 
 <br>
 
