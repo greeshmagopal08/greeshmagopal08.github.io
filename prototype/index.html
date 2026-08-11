@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TA Workload Tracker — GradeFlow</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="app-header">
+  <div class="app-header-inner">
+    <div class="brand-mark" aria-hidden="true">
+      <svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="12" r="9"></circle>
+        <polyline points="8 12.5 10.5 15 16 9"></polyline>
+      </svg>
+      <span class="brand-name">GradeFlow</span>
+    </div>
+  </div>
+</header>
+
+<main class="page">
+  <div class="page-intro">
+    <h1>TA Workload Tracker</h1>
+    <p class="page-subtitle">Pace signals for your TAs, powered by the same risk analytics you already use for students. A check-in here is support, not a performance review.</p>
+  </div>
+
+  <section aria-label="Workload summary" class="summary-strip" id="summary-strip">
+    <!-- rendered by app.js -->
+  </section>
+
+  <section aria-label="TA workload table" class="table-section card">
+    <div class="table-toolbar">
+      <div class="toolbar-field">
+        <label for="course-filter">Course</label>
+        <select id="course-filter">
+          <option value="all">All courses</option>
+        </select>
+      </div>
+      <button type="button" id="reset-demo" class="btn btn-secondary">Reset demo data</button>
+    </div>
+
+    <div class="table-scroll">
+      <table id="ta-table">
+        <thead>
+          <tr>
+            <th scope="col"></th>
+            <th scope="col">
+              <button type="button" class="th-sort" data-sort-key="name">TA</button>
+            </th>
+            <th scope="col">
+              <button type="button" class="th-sort" data-sort-key="course">Course</button>
+            </th>
+            <th scope="col" class="align-right">
+              <button type="button" class="th-sort" data-sort-key="backlogPct">Ungraded</button>
+            </th>
+            <th scope="col">Pace vs. course average</th>
+            <th scope="col">Signals</th>
+            <th scope="col">
+              <button type="button" class="th-sort" data-sort-key="severity">Status</button>
+            </th>
+            <th scope="col">Action</th>
+          </tr>
+        </thead>
+        <tbody id="ta-table-body">
+          <!-- rendered by app.js -->
+        </tbody>
+      </table>
+    </div>
+  </section>
+</main>
+
+<div id="sr-announcer" class="sr-only" role="status" aria-live="polite"></div>
+
+<script src="app.js"></script>
+</body>
+</html>
