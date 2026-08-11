@@ -30,11 +30,7 @@ I'm a Senior Product Manager with 10+ years of experience across product managem
 
 I currently work on SaaS products in the HCM and employee benefits space, partnering closely with engineering, design, data, and business teams to take products from idea through delivery and measure their impact.
 
-My background sits at the intersection of product, technology, data, and user experience. I enjoy taking complex problems, understanding what users actually need, and turning them into simple and useful product experiences.
-
 More recently, I've been focusing on AI Product Management and exploring how LLMs, AI assistants, and AI agents can solve real product problems.
-
-I'm particularly interested in the product side of AI — figuring out where AI actually adds value, how the experience should work, how to evaluate the output, and how to build products that are useful, responsible, and measurable.
 
 <br>
 
@@ -71,6 +67,7 @@ I'm particularly interested in the product side of AI — figuring out where AI 
 * Generative AI and LLM-powered products
 * AI assistants and conversational experiences
 * AI agents and agentic workflows
+* Spec driven development
 * RAG and knowledge-grounded experiences
 * AI evaluation and quality
 * Responsible AI and privacy
@@ -116,21 +113,6 @@ For me, good AI product development starts with the problem, not the model.
 
 <br>
 
-Areas I'm particularly interested in:
-
-* Generative AI and LLM-powered products
-* AI assistants and conversational experiences
-* AI agents and agentic workflows
-* RAG and knowledge-grounded experiences
-* AI evaluation and quality
-* Responsible AI and privacy
-* Human-in-the-loop experiences
-* AI product metrics and experimentation
-* Specification-driven development
-* AI-assisted software development
-
-<br>
-
 ---
 
 ## 💡 How I Think About AI Products
@@ -156,7 +138,7 @@ Areas I'm particularly interested in:
 
 ### Senior Product Manager
 
-HCM • Employee Benefits • SaaS
+HCM • HealthCare • SaaS
 
 I lead product strategy and delivery for benefits experiences across web and mobile, working across product, engineering, design, data, and business teams.
 
@@ -177,21 +159,6 @@ Some areas I've worked across:
 Software Development → Business Analysis → Product Management
 
 My experience across these disciplines gives me a strong understanding of how products move from customer problem → requirements → design → engineering → launch → measurement.
-
-<br>
-
----
-
-<a name="product-data"></a>
-
-## 📊 Product + Data
-
-I use data to help answer product questions, not just report numbers.
-
-* Discover — understand user behavior and identify opportunities
-* Measure — define meaningful product and business metrics
-* Experiment — test assumptions and product changes
-* Decide — use evidence to prioritize what comes next
 
 <br>
 
@@ -261,8 +228,6 @@ I use data to help answer product questions, not just report numbers.
 ## 🎯 Where I'm Headed
 
 I'm interested in opportunities where I can bring together my experience in product management, technology, data, and AI to build products that solve real problems and create measurable value.
-
-AI Product Management · GenAI · AI Agents · AI-powered SaaS · Technical Product Management
 
 <br>
 
