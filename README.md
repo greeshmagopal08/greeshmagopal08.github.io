@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="#about">About</a> • <a href="#what-i-do">What I Do</a> • <a href="#projects">Projects</a> • <a href="#ai-product">AI Product</a> • <a href="#experience">Experience</a> • <a href="#toolkit">Toolkit</a>
+<a href="#about">About</a> • <a href="#what-i-do">What I Do</a> • <a href="#projects">Projects</a> • <a href="#experience">Experience</a>
 
 <br><br>
 
@@ -179,7 +179,6 @@ Thinking about how to measure quality, reliability, grounding, and user value.
 
 <div align="center">
 
-### Let's Connect
 
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
