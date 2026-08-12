@@ -1,4 +1,3 @@
-alert("App.js is working!");
 (function () {
   'use strict';
   /* ---------------------------------------------
