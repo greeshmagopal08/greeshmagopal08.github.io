@@ -182,7 +182,7 @@ TA Tracker was built using Claude Code as an AI-assisted product development wor
 
 The goal wasn't to have AI build the product for me — it was to explore how a Product Manager can use AI-assisted development to go from idea → specification → working product much faster.
 
-**View the prototype →** [TA Tracker](./ta-tracker/)
+**View the prototype →** [TA Tracker](./prototype)
 
 ---
 
