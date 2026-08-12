@@ -1,21 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,100:1e293b&text=Greeshma%20Gopal&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Senior%20Product%20Manager%20%7C%20SaaS%20%7C%20HCM%20%7C%20AI&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:334155&text=Greeshma%20Gopal&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Senior%20Product%20Manager%20%7C%20SaaS%20%7C%20HCM%20%7C%20AI&descAlignY=62&descSize=18" width="100%"/>
 
 <br>
 
-<a href="#about">About</a> • <a href="#what-i-do">What I Do</a> • <a href="#projects">Projects</a> • <a href="#ai-product">AI Product</a> • <a href="#experience">Experience</a> • <a href="#toolkit">Toolkit</a>
+### Building products at the intersection of **product, technology, data & AI**
+
+<a href="#about">About</a>  •  <a href="#projects">Projects</a>  •  <a href="#ai-product">AI + Product</a>  •  <a href="#experience">Experience</a>  •  <a href="#toolkit">Toolkit</a>
 
 <br><br>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
  
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -32,163 +34,294 @@ I'm a Senior Product Manager with 10+ years of experience across **product manag
 
 I currently build SaaS products in the **HCM and employee benefits** space, working across product, engineering, design, data, and business teams to take products from problem discovery through launch and measurement.
 
-I'm increasingly focused on **AI Product Management** — exploring how LLMs, AI assistants, agents, and AI-assisted development can solve real customer problems and create measurable product value.
-
----
-
-<a name="what-i-do"></a>
-
-## 🚀 What I Do
-
-### Product Strategy
-
-* Product strategy and roadmap ownership
-* Product discovery and problem definition
-* Prioritization and experimentation
-* User research and journey mapping
-* Product analytics and outcome measurement
-
-### Product Delivery
-
-* PRDs, specifications, user stories, and acceptance criteria
-* Web and mobile product development
-* Cross-functional leadership
-* API and system integrations
-* Technical requirements and system workflows
-* UX and accessibility
-
-### AI Products
-
-* LLM-powered experiences
-* AI assistants and conversational products
-* AI agents and agentic workflows
-* RAG and knowledge-grounded experiences
-* AI evaluation and quality
-* Human-in-the-loop experiences
-* Responsible AI, privacy, and safety
-* AI product metrics and experimentation
+More recently, I've been focusing on **AI Product Management** — exploring how LLMs, AI assistants, agents, and AI-assisted development can solve real customer problems and create measurable product value.
 
 ---
 
 <a name="projects"></a>
 
-## 🧩 Product Projects
+## 🚀 Projects
 
-### TA Tracker
+<table>
+<tr>
 
-**A product prototype exploring how teams can identify TA workload signals and support TAs before workload becomes a bigger problem.**
+<td width="50%" valign="top">
+
+### 🧩 TA Tracker
+
+**TA Workload & Support Dashboard**
+
+A product prototype exploring how workload signals can help identify when a Teaching Assistant may need support — without turning workload tracking into performance monitoring.
 
 **Product focus**
 
-* Defined the problem and target user
-* Designed the core workload and check-in workflow
-* Used workload signals and contextual data to support product decisions
-* Considered privacy and how sensitive information should be surfaced
-* Designed the experience around **support rather than performance monitoring**
+* Problem and target user definition
+* Workload signals
+* Supportive check-in workflow
+* Privacy-aware product design
+* UX and interaction design
 
-**How I built it**
+**Built with**
 
-Built using **Claude Code** with a **spec-driven, agentic development workflow**.
+`Claude Code` `JavaScript` `HTML` `CSS`
 
-* Started with the product problem, users, requirements, and expected outcomes
-* Used specifications to define workflows and expected behavior
-* Used Claude Code to translate the specifications into a working prototype
-* Iterated through build → review → refine cycles
-* Reviewed the generated implementation and made product and UX decisions throughout
-* Explored how AI-assisted development can shorten the path from **product idea → specification → working software**
+**Approach**
 
-**[→ View TA Tracker Prototype](https://greeshmagopal08.github.io/prototype/)**
+`Spec-driven development`
+`Agentic workflow`
+
+<br>
+
+<a href="https://greeshmagopal08.github.io/prototype/">
+<img src="https://img.shields.io/badge/VIEW%20PROTOTYPE-0f172a?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI Benefits Assistant
+
+**AI-powered employee benefits experience**
+
+Exploring how an AI assistant can help employees understand benefits, answer questions, and navigate complex benefits information.
+
+**Product focus**
+
+* Customer problem definition
+* LLM-powered experience
+* Knowledge grounding
+* Conversational UX
+* Human escalation
+* AI evaluation
+
+**Focus**
+
+`LLMs` `RAG` `AI Evaluation`
+
+<br>
+
+<img src="https://img.shields.io/badge/CASE%20STUDY-COMING%20SOON-334155?style=for-the-badge"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📊 Product Analytics
+
+**Turning product data into decisions**
+
+A product analytics case study focused on identifying user behavior patterns, defining meaningful product metrics, and using data to inform prioritization.
+
+**Exploring**
+
+* Product metrics
+* Funnel analysis
+* User behavior
+* Experimentation
+* Outcome measurement
+
+<br>
+
+<img src="https://img.shields.io/badge/CASE%20STUDY-COMING%20SOON-334155?style=for-the-badge"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Spec-Driven Development
+
+**From product requirements to working software**
+
+Exploring how Product Managers can use structured specifications and AI-assisted development to move more effectively from product requirements to working prototypes.
+
+**Exploring**
+
+* Product specifications
+* Acceptance criteria
+* Claude Code
+* Agentic workflows
+* Build → evaluate → iterate
+
+<br>
+
+<img src="https://img.shields.io/badge/PROJECT-IN%20PROGRESS-334155?style=for-the-badge"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-### More Projects Coming Soon
+### 🧩 TA Tracker — Behind the Build
 
-I'm building additional product case studies around:
+TA Tracker was built using **Claude Code** with a **spec-driven, agentic development workflow**.
 
-**AI Products** • **Product Analytics** • **Experimentation** • **Specification-Driven Development** • **Agentic Workflows**
+The goal wasn't simply to have AI generate code. I used Claude Code as an AI-assisted development partner while continuing to make the **product, UX, prioritization, and decision-making calls**.
+
+**Problem → Specification → Build → Review → Refine**
+
+The project explores how AI-assisted development can shorten the path from:
+
+**Product idea → Product specification → Working prototype**
 
 ---
 
 <a name="ai-product"></a>
 
-## 🤖 How I Think About AI Products
+## 🤖 AI + Product
 
-I don't start with **"Where can we add AI?"**
+I don't start with:
+
+> **"Where can we add AI?"**
 
 I start with:
 
-> **What problem are we solving, and does AI make the experience meaningfully better?**
+> **"What problem are we solving, and does AI make the experience meaningfully better?"**
 
-My approach:
+### My approach
 
-**01 — Problem**
-Understand the customer, workflow, pain point, and desired outcome.
+<div align="center">
 
-↓
+<table>
+<tr>
+<td align="center"><b>01</b><br>Problem</td>
+<td>→</td>
+<td align="center"><b>02</b><br>AI Opportunity</td>
+<td>→</td>
+<td align="center"><b>03</b><br>Product Design</td>
+<td>→</td>
+<td align="center"><b>04</b><br>Build</td>
+</tr>
 
-**02 — AI Opportunity**
-Determine whether AI actually improves the experience.
+<tr>
+<td align="center"><b>05</b><br>Evaluate</td>
+<td>→</td>
+<td align="center"><b>06</b><br>Measure</td>
+<td>→</td>
+<td align="center"><b>07</b><br>Learn</td>
+<td>→</td>
+<td align="center"><b>08</b><br>Improve</td>
+</tr>
+</table>
 
-↓
+</div>
 
-**03 — Product Design**
-Define what the AI should do, what it shouldn't do, and when a human should be involved.
+### 💡 What I Pay Attention To
 
-↓
+* **Customer problem** — Start with the problem, not the AI capability.
+* **AI opportunity** — Understand whether AI actually makes the experience better.
+* **Product design** — Define what the AI should and should not do.
+* **Context & data** — Give the AI the information needed to provide useful responses.
+* **Uncertainty** — Design for situations where the AI doesn't know.
+* **Human oversight** — Decide when a person should be involved.
+* **Evaluation** — Measure accuracy, relevance, grounding, and safety.
+* **Privacy** — Consider data access, retention, and responsible use from the beginning.
+* **Outcomes** — Measure user and business value, not just AI usage.
 
-**04 — Build**
-Use the right combination of models, data, context, tools, and product experiences.
+---
 
-↓
+<a name="experience"></a>
 
-**05 — Evaluate**
-Test accuracy, relevance, grounding, safety, and overall experience.
+## 💼 Experience
 
-↓
+### Senior Product Manager
 
-**06 — Measure**
-Measure user and business outcomes — not just AI usage.
+**HCM · Employee Benefits · SaaS**
 
-↓
+I lead product strategy and delivery for benefits experiences across web and mobile, working across product, engineering, design, data, and business teams.
 
-**07 — Learn & Improve**
-Use real-world feedback and evaluation data to continuously improve the product.
-  
+**Areas I've worked across**
+
+`Product Strategy` `Global SaaS` `Web & Mobile` `Benefits` `Payroll` `HR`
+
+`Cross-System Integrations` `AI Experiences` `Product Analytics` `UX` `Accessibility`
+
+### Earlier Experience
+
+**Software Development → Business Analysis → Product Management**
+
+My experience across these disciplines gives me a strong understanding of how products move from:
+
+**Customer problem → Requirements → Design → Engineering → Launch → Measurement**
+
+---
+
+<a name="toolkit"></a>
+
+## 🛠️ Toolkit
+
+### Product
+
+<img src="https://img.shields.io/badge/Product%20Strategy-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Product%20Discovery-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/PRDs%20%26%20Specs-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/User%20Research-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Experimentation-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Product%20Analytics-111827?style=flat-square"/>
+
+### AI
+
+<img src="https://img.shields.io/badge/LLMs-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Generative%20AI-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20Agents-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20Evaluation-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Responsible%20AI-111827?style=flat-square"/>
+
+### Tools & Technical
+
+<img src="https://img.shields.io/badge/Claude%20Code-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChatGPT-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Rovo%20AI-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Figma-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Jira-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/n8n-111827?style=flat-square"/>
+
 ---
 
 ## 🌱 Currently Exploring
 
-**AI Product Management**
-Building and evaluating AI-powered product experiences.
+<div align="center">
 
-**Agentic Workflows**
-Exploring how AI agents can reason, use tools, and complete multi-step tasks.
+<table>
+<tr>
+<td align="center">🤖<br><b>AI Product Management</b><br><sub>Building & evaluating AI experiences</sub></td>
+<td align="center">🧠<br><b>Agentic Workflows</b><br><sub>AI reasoning & tool use</sub></td>
+<td align="center">📝<br><b>Spec-Driven Development</b><br><sub>From specs to software</sub></td>
+</tr>
 
-**Specification-Driven Development**
-Using structured specifications to improve the way product ideas become working software.
+<tr>
+<td align="center">⚡<br><b>AI-Assisted Development</b><br><sub>Claude Code & AI tooling</sub></td>
+<td align="center">📐<br><b>AI Evaluation</b><br><sub>Quality & reliability</sub></td>
+<td align="center">📊<br><b>Product Experimentation</b><br><sub>Learning through data</sub></td>
+</tr>
+</table>
 
-**AI-Assisted Development**
-Experimenting with tools such as Claude Code to shorten the product → prototype → feedback loop.
-
-**AI Evaluation**
-Thinking about how to measure quality, reliability, grounding, and user value.
-
-<br>
+</div>
 
 ---
 
 <div align="center">
 
-### Let's Connect
+## Let's Connect
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
  
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Say%20Hello-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
