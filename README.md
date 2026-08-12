@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,100:1e293b&text=Greeshma%20Gopal&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Senior%20Product%20Manager%20%7C%20SaaS%20%7C%20HCM%20%7C%20AI&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,100:1e293b&text=Greeshma%20Gopal&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Senior%20Product%20Manager%20%7C%20%20%7C%20%20%7C%20&descAlignY=62&descSize=18" width="100%"/>
 
 <br>
 
@@ -8,13 +8,13 @@
 
 <br><br>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/greeshmagopal/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
  
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:greeshma.gopal08@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
