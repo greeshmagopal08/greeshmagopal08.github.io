@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="#about">About</a>  •  <a href="#what-i-do">What I Do</a>  •  <a href="#ai-product-management">AI Product</a>  •  <a href="#experience">Experience</a>  •  <a href="#product-data">Product & Data</a>  •  <a href="#toolkit">Toolkit</a>  •  <a href="#currently-exploring">Currently Exploring</a>
+<a href="#about">About</a> • <a href="#what-i-do">What I Do</a> • <a href="#ai-product-management">AI Product</a> • <a href="#experience">Experience</a> • <a href="#projects">Projects</a> • <a href="#product-data">Product & Data</a> • <a href="#toolkit">Toolkit</a> • <a href="#currently-exploring">Currently Exploring</a>
 
 <br><br>
 
@@ -138,7 +138,7 @@ For me, good AI product development starts with the problem, not the model.
 
 ### Senior Product Manager
 
-HCM • HealthCare • SaaS
+HCM • Healthcare • SaaS
 
 I lead product strategy and delivery for benefits experiences across web and mobile, working across product, engineering, design, data, and business teams.
 
@@ -159,6 +159,53 @@ Some areas I've worked across:
 Software Development → Business Analysis → Product Management
 
 My experience across these disciplines gives me a strong understanding of how products move from customer problem → requirements → design → engineering → launch → measurement.
+
+<br>
+
+---
+
+<a name="projects"></a>
+
+## 🚀 Projects
+
+### TA Tracker
+
+A product prototype exploring how teams can simplify TA assignment and workload tracking.
+
+**What I explored**
+
+* Defined the problem and target user
+* Mapped the core workflow and user experience
+* Designed a simple product experience focused on visibility and ease of use
+* Built an interactive prototype to demonstrate the concept
+* Thought through how the product could evolve based on user needs and feedback
+
+**View the prototype →** [TA Tracker](./ta-tracker/)
+
+---
+
+### More projects coming soon
+
+I'm building out additional product case studies covering AI, product analytics, experimentation, and specification-driven development.
+
+<br>
+
+---
+
+<a name="product-data"></a>
+
+## 📊 Product & Data
+
+I use data to understand product behavior, identify opportunities, validate decisions, and measure outcomes.
+
+* Product analytics and KPI definition
+* User behavior and funnel analysis
+* Experimentation and A/B testing
+* Data-informed prioritization
+* Translating data into product decisions
+* Working with engineering and data teams
+* SQL and analytical workflows
+* Measuring product and business impact
 
 <br>
 
