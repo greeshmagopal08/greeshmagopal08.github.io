@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,100:1e293b&text=Greeshma%20Gopal&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Senior%20Product%20Manager%20%7C%20%20%7C%20%20%7C%20&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,100:1e293b&text=Greeshma%20Gopal&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Senior%20Product%20Manager%&descAlignY=62&descSize=18" width="100%"/>
 
 <br>
 
@@ -28,11 +28,9 @@
 
 ## 👋 About Me
 
-I'm a Senior Product Manager with 10+ years of experience across **product management, software development, business analysis, and analytics**.
+I'm a Senior Product Manager with 10+ years of experience across product management, software development, business analysis, and analytics**.
 
-I currently build SaaS products in the **HCM and employee benefits** space, working across product, engineering, design, data, and business teams to take products from problem discovery through launch and measurement.
-
-I'm increasingly focused on **AI Product Management** — exploring how LLMs, AI assistants, agents, and AI-assisted development can solve real customer problems and create measurable product value.
+I currently build SaaS products in the HCM and employee benefits space, working across product, engineering, design, data, and business teams to take products from problem discovery through launch and measurement.
 
 ---
 
@@ -76,7 +74,7 @@ I'm increasingly focused on **AI Product Management** — exploring how LLMs, AI
 
 ### TA Tracker
 
-**A product prototype exploring how teams can identify TA workload signals and support TAs before workload becomes a bigger problem.**
+A product prototype exploring how teams can identify TA workload signals and support TAs before workload becomes a bigger problem.
 
 **Product focus**
 
@@ -84,7 +82,7 @@ I'm increasingly focused on **AI Product Management** — exploring how LLMs, AI
 * Designed the core workload and check-in workflow
 * Used workload signals and contextual data to support product decisions
 * Considered privacy and how sensitive information should be surfaced
-* Designed the experience around **support rather than performance monitoring**
+* Designed the experience around support rather than performance monitoring
 
 **How I built it**
 
@@ -113,11 +111,11 @@ I'm building additional product case studies around:
 
 ## 🤖 How I Think About AI Products
 
-I don't start with **"Where can we add AI?"**
+I don't start with "Where can we add AI?"
 
 I start with:
 
-> **What problem are we solving, and does AI make the experience meaningfully better?**
+> What problem are we solving, and does AI make the experience meaningfully better?
 
 My approach:
 
