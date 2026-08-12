@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,100:1e293b&text=Greeshma%20Gopal&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Senior%20Product%20Manager%&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0f172a,100:1e293b&text=Greeshma%20Gopal&fontColor=f8fafc&fontSize=48&fontAlignY=38&desc=Senior%20Product%20Manager&descAlignY=62&descSize=18&descColor=cbd5e1" width="100%"/>
 
 <br>
 
@@ -9,13 +9,13 @@
 <br><br>
 
 <a href="https://www.linkedin.com/in/greeshmagopal/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-1e293b?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
  
 
 <a href="mailto:greeshma.gopal08@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-0f172a?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-1e293b?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -86,7 +86,7 @@ A product prototype exploring how teams can identify TA workload signals and sup
 
 **How I built it**
 
-Built using Claude Code** with a **spec-driven, agentic development workflow.
+Built using **Claude Code** with a **spec-driven, agentic development workflow**.
 
 * Started with the product problem, users, requirements, and expected outcomes
 * Used specifications to define workflows and expected behavior
@@ -151,7 +151,7 @@ Measure user and business outcomes — not just AI usage.
 
 **07 — Learn & Improve**
 Use real-world feedback and evaluation data to continuously improve the product.
-  
+
 ---
 
 ## 🌱 Currently Exploring
