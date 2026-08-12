@@ -172,13 +172,15 @@ My experience across these disciplines gives me a strong understanding of how pr
 
 A product prototype exploring how teams can simplify TA assignment and workload tracking.
 
-**What I explored**
+TA Tracker was built using Claude Code as an AI-assisted product development workflow.
 
-* Defined the problem and target user
-* Mapped the core workflow and user experience
-* Designed a simple product experience focused on visibility and ease of use
-* Built an interactive prototype to demonstrate the concept
-* Thought through how the product could evolve based on user needs and feedback
+* Built using Claude Code with an agentic, spec-driven development workflow
+* Used specifications to define the product requirements, workflows, and expected behavior
+* Worked iteratively with Claude Code to translate specifications into a working prototype
+* Reviewed outputs, tested behavior, and refined the implementation
+* Explored how agentic AI can help Product Managers move from product specification to working software
+
+The goal wasn't to have AI build the product for me — it was to explore how a Product Manager can use AI-assisted development to go from idea → specification → working product much faster.
 
 **View the prototype →** [TA Tracker](./ta-tracker/)
 
