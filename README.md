@@ -86,7 +86,7 @@ A product prototype exploring how teams can identify TA workload signals and sup
 
 **How I built it**
 
-Built using **Claude Code** with a **spec-driven, agentic development workflow**.
+Built using Claude Code** with a spec-driven, agentic development workflow.
 
 * Started with the product problem, users, requirements, and expected outcomes
 * Used specifications to define workflows and expected behavior
