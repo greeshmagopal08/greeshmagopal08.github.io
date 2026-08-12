@@ -153,99 +153,7 @@ Measure user and business outcomes — not just AI usage.
 
 **07 — Learn & Improve**
 Use real-world feedback and evaluation data to continuously improve the product.
-
----
-
-### 💡 What I Pay Attention To
-
-* **Data & context** — Does the AI have the information it needs?
-* **Grounding** — Can users trust where the answer came from?
-* **Uncertainty** — What happens when the AI doesn't know?
-* **Human oversight** — When should a person step in?
-* **Privacy** — What data should the system access or retain?
-* **Evaluation** — How do we know the AI is actually performing well?
-* **Product metrics** — Is it improving the customer or business outcome?
-
----
-
-<a name="experience"></a>
-
-## 💼 Experience
-
-### Senior Product Manager — HCM / Employee Benefits
-
-Leading product strategy and delivery for benefits experiences across **web and mobile**, serving a large global customer base.
-
-Areas of ownership include:
-
-* Benefits, payroll, HR, and employee experience
-* Global SaaS products
-* Web and mobile experiences
-* Cross-system integrations
-* Platform and identity initiatives
-* AI-powered employee experiences
-* Product analytics and experimentation
-* UX, accessibility, and user research
-
-### Earlier Career
-
-**Software Development → Business Analysis → Product Management**
-
-This background gives me a strong understanding of the full product lifecycle:
-
-**Customer problem → Requirements → Design → Engineering → Launch → Measurement**
-
----
-
-## 📊 Product + Data
-
-I use data as a product decision-making tool — not just as a reporting mechanism.
-
-* Product metrics and KPI definition
-* Funnel and behavioral analysis
-* Experimentation and A/B testing
-* Data-informed prioritization
-* Product opportunity identification
-* SQL and analytical workflows
-* Measuring product and business impact
-* Translating data into actionable product decisions
-
----
-
-<a name="toolkit"></a>
-
-## 🛠️ Toolkit
-
-### Product
-
-<img src="https://img.shields.io/badge/Product%20Strategy-0f172a?style=flat-square"/>
-<img src="https://img.shields.io/badge/Product%20Discovery-0f172a?style=flat-square"/>
-<img src="https://img.shields.io/badge/PRDs%20%26%20Specs-0f172a?style=flat-square"/>
-<img src="https://img.shields.io/badge/User%20Research-0f172a?style=flat-square"/>
-<img src="https://img.shields.io/badge/Experimentation-0f172a?style=flat-square"/>
-<img src="https://img.shields.io/badge/Product%20Analytics-0f172a?style=flat-square"/>
-
-### AI
-
-<img src="https://img.shields.io/badge/LLMs-0f172a?style=flat-square"/>
-<img src="https://img.shields.io/badge/Generative%20AI-0f172a?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI%20Agents-0f172a?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-0f172a?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI%20Evaluation-0f172a?style=flat-square"/>
-<img src="https://img.shields.io/badge/Responsible%20AI-0f172a?style=flat-square"/>
-
-### Tools & Technical
-
-<img src="https://img.shields.io/badge/Claude%20Code-0f172a?style=flat-square"/>
-<img src="https://img.shields.io/badge/GitHub%20Copilot-0f172a?style=flat-square"/>
-<img src="https://img.shields.io/badge/ChatGPT-0f172a?style=flat-square"/>
-<img src="https://img.shields.io/badge/Rovo%20AI-0f172a?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQL-0f172a?style=flat-square"/>
-<img src="https://img.shields.io/badge/Python-0f172a?style=flat-square"/>
-<img src="https://img.shields.io/badge/Figma-0f172a?style=flat-square"/>
-<img src="https://img.shields.io/badge/Jira-0f172a?style=flat-square"/>
-<img src="https://img.shields.io/badge/n8n-0f172a?style=flat-square"/>
-
+  
 ---
 
 ## 🌱 Currently Exploring
@@ -264,12 +172,6 @@ Experimenting with tools such as Claude Code to shorten the product → prototyp
 
 **AI Evaluation**
 Thinking about how to measure quality, reliability, grounding, and user value.
-
----
-
-## 🎯 What I'm Looking For
-
-I'm interested in opportunities where I can bring together **product management, technology, data, and AI** to solve meaningful problems and build products that create measurable value.
 
 <br>
 
