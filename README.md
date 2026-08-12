@@ -28,7 +28,7 @@
 
 ## 👋 About Me
 
-I'm a Senior Product Manager with 10+ years of experience across product management, software development, business analysis, and analytics**.
+I'm a Senior Product Manager with 10+ years of experience across product management, software development, business analysis, and analytics.
 
 I currently build SaaS products in the HCM and employee benefits space, working across product, engineering, design, data, and business teams to take products from problem discovery through launch and measurement.
 
@@ -86,14 +86,14 @@ A product prototype exploring how teams can identify TA workload signals and sup
 
 **How I built it**
 
-Built using **Claude Code** with a **spec-driven, agentic development workflow**.
+Built using Claude Code** with a **spec-driven, agentic development workflow.
 
 * Started with the product problem, users, requirements, and expected outcomes
 * Used specifications to define workflows and expected behavior
 * Used Claude Code to translate the specifications into a working prototype
 * Iterated through build → review → refine cycles
 * Reviewed the generated implementation and made product and UX decisions throughout
-* Explored how AI-assisted development can shorten the path from **product idea → specification → working software**
+* Explored how AI-assisted development can shorten the path from product idea → specification → working software
 
 **[→ View TA Tracker Prototype](https://greeshmagopal08.github.io/prototype/)**
 
@@ -176,19 +176,6 @@ Thinking about how to measure quality, reliability, grounding, and user value.
 ---
 
 <div align="center">
-
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
- 
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
 
 <i>Building at the intersection of product, technology, data & AI.</i>
 
