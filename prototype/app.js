@@ -1,6 +1,6 @@
 (function () {
   'use strict';
-
+alert("App.js is working!");
   /* ---------------------------------------------
      Icons — simple outline SVGs, Heroicons-style
      (24 viewBox, 1.5 stroke, currentColor)
